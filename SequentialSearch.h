@@ -6,6 +6,7 @@
 class SequentialSearch {
   private:
     int array[];
+    int arraySize;
     int targetLocation;
 
   public:
