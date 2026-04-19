@@ -10,6 +10,7 @@ class SequentialSearch {
 
   public:
     SequentialSearch(); //constructor
+    ~SequentialSearch();
 
     int search();
     void display();
